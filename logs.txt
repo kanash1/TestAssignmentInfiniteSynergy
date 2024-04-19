@@ -1,0 +1,10 @@
+2024-04-19T21:24:10.003Z: HikariPool-1 - Starting...
+2024-04-19T21:24:10.365Z: HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@56a6d5a6
+2024-04-19T21:24:10.367Z: HikariPool-1 - Start completed.
+2024-04-19T21:24:10.554Z: Server is running
+2024-04-19T21:24:26.403Z: User user1 registered
+2024-04-19T21:24:31.692Z: User user2 registered
+2024-04-19T21:24:33.984Z: User user1 is logged in
+2024-04-19T21:24:45.485Z: User user1 balance is 1000$
+2024-04-19T21:24:51.940Z: User user1 was send 100$ to the user user2
+2024-04-19T21:24:53.886Z: User user1 balance is 900$
